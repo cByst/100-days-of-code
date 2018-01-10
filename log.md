@@ -8,3 +8,11 @@
 
 **Link to work:** [BrewTrip](https://github.com/cByst/BrewTrip)
 
+### Day 1: January 9, 2018
+
+**Today's Progress**: Implemented the directions panel on the BrewTrip app.  Began working on doing the brewery searching off route part. Will hopefully finish this up tomorrow.
+
+**Thoughts:** After some trouble shooting at the moment I believe you can not draw multiple routes with different colors using the google maps api. So for the moment all routes will have to stay the same color. Will re-evaluate this at some point. Ran accross some nuances with redux actions and the interplay across reducers, hopeing to flush out the best practices on this as I finish up the app.
+
+**Link to work:** [BrewTrip](https://github.com/cByst/BrewTrip)
+
