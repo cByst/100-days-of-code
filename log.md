@@ -16,7 +16,7 @@
 
 **Link to work:** [BrewTrip](https://github.com/cByst/BrewTrip)
 
-### Day 3: January 9, 2018
+### Day 3: January 10, 2018
 
 **Today's Progress**: Fooled around with the google routeboxer javascript lib. Was able to implement routeboxing around a google maps route and then use google radar search to search with in each bounding box for "breweries". Next step would be to implement this in the webapp and have the breweries drawn on map and added to the redux state. Also fixed some various typos :P.
 
