@@ -8,7 +8,7 @@
 
 **Link to work:** [BrewTrip](https://github.com/cByst/BrewTrip)
 
-### Day 1: January 9, 2018
+### Day 2: January 9, 2018
 
 **Today's Progress**: Implemented the directions panel on the BrewTrip app.  Began working on doing the brewery searching off route part. Will hopefully finish this up tomorrow.
 
@@ -16,3 +16,10 @@
 
 **Link to work:** [BrewTrip](https://github.com/cByst/BrewTrip)
 
+### Day 3: January 9, 2018
+
+**Today's Progress**: Fooled around with the google routeboxer javascript lib. Was able to implement routeboxing around a google maps route and then use google radar search to search with in each bounding box for "breweries". Next step would be to implement this in the webapp and have the breweries drawn on map and added to the redux state. Also fixed some various typos :P.
+
+**Thoughts:** Excited to see this thing come together. Will have to go back at the end and clean up the UI abit.... trying my best implement the UI as I go. Might have to go on a little road trip to test this thing when im done.
+
+**Link to work:** [BrewTrip](https://github.com/cByst/BrewTrip)
